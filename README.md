@@ -13,3 +13,4 @@
 - Calendar
 - Autocomplete y require
 - select
+- Input type submit vs Button tag
