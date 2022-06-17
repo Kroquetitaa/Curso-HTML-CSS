@@ -7,3 +7,5 @@
 - Tipos de imágenes
 - Optimización de imagenes
 - Etiqueta img
+- Etiqueta figure
+- Etiqueta video
