@@ -10,3 +10,4 @@
 - Etiqueta figure
 - Etiqueta video
 - Etiqueta form e input
+- Calendar
