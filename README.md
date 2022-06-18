@@ -22,3 +22,4 @@
 ### Curso CSS
 
 - Como utilizamos CSS: por etiqueta, selector, class y por ID
+- Pseudo clases y pseudo elementos
