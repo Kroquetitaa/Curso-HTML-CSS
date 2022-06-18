@@ -22,4 +22,6 @@
 ### Curso CSS
 
 - Como utilizamos CSS: por etiqueta, selector, class y por ID
-- Pseudo clases y pseudo elementos
+- Pseudo clases y pseudo elementos.
+- Anatomia de una regla CSS
+- Modelo de caja
