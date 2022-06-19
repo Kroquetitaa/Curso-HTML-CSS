@@ -25,3 +25,4 @@
 - Pseudo clases y pseudo elementos.
 - Anatomia de una regla CSS
 - Modelo de caja
+- Herencia
