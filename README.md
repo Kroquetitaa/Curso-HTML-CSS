@@ -26,3 +26,4 @@
 - Anatomia de una regla CSS
 - Modelo de caja
 - Herencia
+- Demo de especificidad y orden en selectores
