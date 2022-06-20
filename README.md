@@ -29,3 +29,4 @@
 - Demo de especificidad y orden en selectores
 - Mas sobre selectores
 - Combinadores: Adjacent Siblings
+- Combinadores: General Sibling
