@@ -37,3 +37,4 @@
 - Max/Min width
 - Position
 - Display
+- Display Flex
