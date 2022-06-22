@@ -40,3 +40,4 @@
 - Display Flex
 - Flexbox layouts
 - Variables
+- Web fonts
