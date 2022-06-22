@@ -38,3 +38,5 @@
 - Position
 - Display
 - Display Flex
+- Flexbox layouts
+- Variables
